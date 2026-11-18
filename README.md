@@ -45,11 +45,11 @@ node bai04.js
 
 ### Kết quả chạy chương trình
 
-![Kết quả chạy chương trình](images/ket-qua.png)
+![Kết quả chạy chương trình](image/ket-qua.png)
 
 ### Dữ liệu trên MongoDB Compass
 
-![Dữ liệu MongoDB Compass](images/mongodb-compass.png)
+![Dữ liệu MongoDB Compass](image/mongodb-compass.png)
 
 ## 6. Kết luận
 
